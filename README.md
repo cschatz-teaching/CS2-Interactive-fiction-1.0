@@ -1,0 +1,1 @@
+# CS2-Interactive-fiction-1.0
